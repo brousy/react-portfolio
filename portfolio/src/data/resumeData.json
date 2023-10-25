@@ -8,10 +8,8 @@
     "APIs",
     "jQuery",
     "JSON",
-    "AJAX",
     "Git",
     "Node.js",
-    "ES6",
     "OOP",
     "Express.js",
     "MySQL",
@@ -22,46 +20,36 @@
     "NoSQL"
   ],
   "software": [
-    "Nintex Process Platform",
-    "Canto",
     "Expensify",
-    "Millennia FileStar",
-    "MRI",
-    "Nexus",
-    "VTS (View The Space)",
-    "Atlassian Jira & Confluence",
+    "Meez",
     "SharePoint Online (O365)",
     "GitHub/GitLab",
-    "PowerBI",
-    "Concur",
     "Microsoft Dynamics",
-    "Asana",
     "Dropbox",
-    "Camtasia",
-    "Google Suite",
-    "Salesforce CRM"
+    "Google Suite"
   ],
   "experience": [
     {
-      "role": "Technical Channel Enablement Manager",
-      "company": "Nintex",
-      "location": "Remote",
-      "duration": "July 2022 – February 2023",
+      "role": "General Manager",
+      "company": "Castelinnos",
+      "location": "Philadelphia",
+      "duration": "May 2021 – Present",
       "duties": [
-        "Managed and executed complex technical partner enablement programs, influencing product roadmaps and providing technical expertise.",
-        "Conducted engaging training exercises to equip teams with necessary knowledge and skills.",
-        "Developed comprehensive go-to-market plans in collaboration with Strategic Partner Managers."
+        "Managed staff and operations",
+        "Conducted engaging training exercises to equip team members with necessary knowledge and skills.",
+        "Developed an app to streamline the business ordering adn inventory for ease of use."
       ]
     },
     {
-        "role": "Technical Channel Enablement Manager",
-        "company": "Nintex",
-        "location": "Remote",
-        "duration": "July 2022 – February 2023",
+        "role": "General Manager",
+        "company": "Hip City Veg",
+        "location": "Philadelphia and surround suburbs",
+        "duration": "May 2022 – May 2023",
         "duties": [
-          "Managed and executed complex technical partner enablement programs, influencing product roadmaps and providing technical expertise.",
-          "Conducted engaging training exercises to equip teams with necessary knowledge and skills.",
-          "Developed comprehensive go-to-market plans in collaboration with Strategic Partner Managers."
+          "Day-to_day operations of the restaurant.",
+          "Scheduling, hiring and training employees.",
+          "Built an off-site commissary to help relieve production max out of central kitchen.",
+          "Inventory control and cost management of all items used within the kitchen."
         ]
     }
   ]
