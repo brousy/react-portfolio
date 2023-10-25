@@ -12,16 +12,16 @@ function Footer() {
     <div className='footer'>
 
       {/* Email */}
-      <a href="mailto:mickey.camarco@gmail.com">Contact Me</a>
+      <a href="mailto:brousy2222@gmail.com">Contact Me</a>
       <br></br> 
 
       {/* GitHub */}
-      <a href="https://github.com/mcamarco">
+      <a href="https://github.com/brousy">
         <img src={githubIcon} alt="GitHub" style={iconStyle} />
       </a>
 
       {/* LinkedIn */}
-      <a href="https://linkedin.com/in/mcamarco">
+      <a href="https://www.linkedin.com/in/brou-quinn-370622212/">
         <img src={linkedinLogo} alt="LinkedIn" style={iconStyle} />
       </a>
     </div>
