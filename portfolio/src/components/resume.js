@@ -7,13 +7,11 @@ function Resume() {
           </div>
           <div className="card-body">
             <h5> Technical Skills</h5> <p>
-              HTML/CSS, JavaScript, Bootstrap, DOM Manipulation, APIs, jQuery, JSON, AJAX, Git, Node.js, ES6, OOP, Express.js,
+              HTML/CSS, JavaScript, Bootstrap, DOM Manipulation, APIs, jQuery, JSON, Git, Node.js, OOP, Express.js,
               MySQL, MVC Paradigm, Sequelize, Testing, React.js, NoSQL
             </p>
             <h5>Applications</h5>
-            <p> Nintex, Canto, Expensify, Millennia FileStar, MRI,
-              Nexus, VTS (View The Space), Atlassian Jira & Confluence, SharePoint Online (O365), GitHub/GitLab, PowerBI,
-              Concur, Microsoft Dynamics, Asana, Dropbox, Camtasia, Google Suite, Salesforce, SAP Business One & More!
+            <p> SharePoint Online (O365), GitHub/GitLab, Square,Meez, Dropbox, Google Suite, Excel & More!
             </p>
           </div>
         </div>
@@ -22,47 +20,22 @@ function Resume() {
           <h2>Experience</h2>
         </div>
         <div className="card-body">
-          <h5>Technical Channel Enablement Manager</h5>
+          <h5>General Manager</h5>
           <p className="experience-info">
-            Nintex | Remote | July 2022 – February 2023
+           Castellinos | Philadelphia | May 2021 – Present
           </p>
-          <h5>Solutions Engineer</h5>
+          <h5>General Manager</h5>
           <p className="experience-info">
-            Nintex | Remote | April 2021 - July 2022
+            Hip City Veg | Philadelphia | May 2022 - May 2023
           </p>
-          <h5>Business Analyst / Product Manager</h5>
+          <h5>Culinary Director</h5>
           <p className="experience-info">
-            Silverstein Properties | New York | May 2019 – April 2021
+            Hi-Lo Taco Co. | Philadelphia | March 2021 – May 2022
           </p>
-          <h5>Diversity, Equity & Inclusion Team Member</h5>
+          <h5>Sous Chef</h5>
           <p className="experience-info">
-            Silverstein Properties | New York | July 2019 – April 2021
+            Nopa | San Francisco | May 2017 – June 2019
           </p>
-          <h5>Inside Sales Account Manager (Temp)</h5>
-          <p className="experience-info">
-            Hi-Tech Fasteners Corp | New York | December 2018 – May 2019
-          </p>
-          <h5>Sales Associate / Project Manager </h5>
-          <p className="experience-info">
-            Metrofab Pipe, Inc | New York | April 2016 – September 2018
-          </p>
-          <h5>Accounts Payable Clerk (Temporary)</h5>
-          <p className="experience-info">
-            The Estée Lauder Companies Inc | New York | Jul 2015 – Apr 2016
-          </p>
-          <h5>Legal Assistant</h5>
-          <p className="experience-info">
-            Forster & Garbus | New York | Oct 2014 – May 2015
-          </p>
-          <h5>Contact Representative (Seasonal)</h5>
-          <p className="experience-info">
-            Internal Revenue Service | New York | Nov 2013 – Aug 2014
-          </p>
-          <h5>Bank Teller</h5>
-          <p className="experience-info">
-            Teachers Federal Credit Union | New York | Nov 2011 – Aug 2013
-          </p>
-        </div>
       </div>
 <div className="card mt-4">
         <div className="card-header">
@@ -71,8 +44,8 @@ function Resume() {
         <div className="card-body">
           <ul>
             <li>Penn LPS Coding Boot Camp, University Of Pennsylvania</li>
-            <li>B.S. Business Administration, Farmingdale State College (Minor: Business Law)</li>
-            <li>Project Management For Professionals, NYU School of Professional Studies</li>
+            <li>B.S. Positive Psychology and Organizational Anthropology, University of Pennsylvania</li>
+            <li>Associates in Culinary Arts, Culinary Institute of America</li>
           </ul>
         </div>
       </div>
@@ -84,20 +57,8 @@ function Resume() {
         <div className="card-body">
           <ul>
             <li>Full Stack Web Developer - University of Pennsylvania</li>
-            <li>Software Development Life Cycle (SDLC) - LinkedIn Learning</li>
-            <li>Technical Sales: The Role of the Sales Engineer - LinkedIn Learning</li>
-            <li>Process Automation Practitioner - Nintex</li>
-            <li>Workflow Cloud Practitioner - Nintex</li>
+        
           </ul>
-        </div>
-      </div>
-
-      <div className="card mt-4">
-        <div className="card-header">
-          <h2>Additional Information</h2>
-        </div>
-        <div className="card-body">
-          <p>Snowboard Instructor | Blue Mountain Resort, PA | Seasonal</p>
         </div>
       </div>
 
@@ -106,6 +67,6 @@ function Resume() {
       </div> */}
     </div>
   );
-}
+},
 
 export default Resume;
