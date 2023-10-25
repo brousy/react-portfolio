@@ -1,0 +1,68 @@
+{
+  "summary": "Experienced Technical Project Manager with a strong background in business analysis, technical channel enablement, and solutions engineering. Proven ability to manage complex projects, exceed sales targets, and build strategic partnerships. Skilled in delivering technical presentations, influencing product roadmaps, and innovating solutions.",
+  "technicalLanguages": [
+    "HTML/CSS",
+    "JavaScript",
+    "Bootstrap",
+    "DOM Manipulation",
+    "APIs",
+    "jQuery",
+    "JSON",
+    "AJAX",
+    "Git",
+    "Node.js",
+    "ES6",
+    "OOP",
+    "Express.js",
+    "MySQL",
+    "MVC Paradigm",
+    "Sequelize",
+    "Testing",
+    "React.js",
+    "NoSQL"
+  ],
+  "software": [
+    "Nintex Process Platform",
+    "Canto",
+    "Expensify",
+    "Millennia FileStar",
+    "MRI",
+    "Nexus",
+    "VTS (View The Space)",
+    "Atlassian Jira & Confluence",
+    "SharePoint Online (O365)",
+    "GitHub/GitLab",
+    "PowerBI",
+    "Concur",
+    "Microsoft Dynamics",
+    "Asana",
+    "Dropbox",
+    "Camtasia",
+    "Google Suite",
+    "Salesforce CRM"
+  ],
+  "experience": [
+    {
+      "role": "Technical Channel Enablement Manager",
+      "company": "Nintex",
+      "location": "Remote",
+      "duration": "July 2022 – February 2023",
+      "duties": [
+        "Managed and executed complex technical partner enablement programs, influencing product roadmaps and providing technical expertise.",
+        "Conducted engaging training exercises to equip teams with necessary knowledge and skills.",
+        "Developed comprehensive go-to-market plans in collaboration with Strategic Partner Managers."
+      ]
+    },
+    {
+        "role": "Technical Channel Enablement Manager",
+        "company": "Nintex",
+        "location": "Remote",
+        "duration": "July 2022 – February 2023",
+        "duties": [
+          "Managed and executed complex technical partner enablement programs, influencing product roadmaps and providing technical expertise.",
+          "Conducted engaging training exercises to equip teams with necessary knowledge and skills.",
+          "Developed comprehensive go-to-market plans in collaboration with Strategic Partner Managers."
+        ]
+    }
+  ]
+}
