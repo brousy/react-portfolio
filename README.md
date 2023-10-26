@@ -1,5 +1,6 @@
 ### React Portfolio
- [live preview](https://github.com/brousy/react-portfolio.git)
+ [Live Preview](https://resplendent-entremet-17f1d7.netlify.app/)
+ [Git Hub](https://github.com/brousy/react-portfolio)
 
 [![react portfoiio](src.image)
 
