@@ -1,6 +1,6 @@
 import React from 'react';
-import linkedinLogo from '../images/linkedinLogo.png';
-import githubIcon from '../images/github-logo.png';
+import linkedinLogo from '../images/linkedin.png';
+import githubIcon from '../images/github.png';
 
 function Footer() {
   const iconStyle = {

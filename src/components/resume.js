@@ -66,6 +66,7 @@ function Resume() {
         <a href="/images/Resume.pdf" download>Download Resume Here</a>
       </div> */}
     </div>
+    </div>
   );
   }
 

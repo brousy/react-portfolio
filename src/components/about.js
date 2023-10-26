@@ -1,5 +1,5 @@
 import React from 'react';
-import MickeysHeadshot from '../images/Mickey_Full.jpeg';
+import MickeysHeadshot from '../images/chuck.png';
 
 function About() {
   return (
